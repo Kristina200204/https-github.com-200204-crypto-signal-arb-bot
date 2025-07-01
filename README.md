@@ -1,1 +1,1 @@
-tpython-telegram-bot==20.6
+python-telegram-bot==20.6
